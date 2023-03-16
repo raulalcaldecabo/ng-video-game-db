@@ -119,10 +119,8 @@
     animation: 3s rotate linear infinite;
     -webkit-transform-origin: 50% 50%;
     transform-origin: 50% 50%;
-    width: 50px;
-    height: 50px;
-}
-
-svg:hovercircle {
-  fill: #f06;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
 }
