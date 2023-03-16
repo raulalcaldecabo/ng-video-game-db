@@ -13,7 +13,7 @@ import { MatSelectModule } from '@angular/material/select';
 import { SearchBarComponent } from './components/search-bar/search-bar.component';
 import { HomeComponent } from './components/home/home.component';
 import { RouterModule, Routes } from '@angular/router';
-import { HttpHeadersInterceptor } from 'src/app/interceptors/http-headers.interceptors';
+import { HttpHeadersInterceptor } from 'src/app/interceptors/http-headers-interceptors';
 import { HttpErrorsInterceptor } from 'src/app/interceptors/http-errors.interceptors';
 import { DetailsComponent } from './components/details/details.component';
 import { GameTabsComponent } from './components/game-tabs/game-tabs.component';
