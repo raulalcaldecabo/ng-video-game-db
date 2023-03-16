@@ -1,1 +1,5 @@
 af1290ee97e54ed5a164f6c04d120bc7
+
+https://ng-video-game-db-102af.web.app/
+
+https://console.firebase.google.com/project/ng-video-game-db-102af/overview
